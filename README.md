@@ -9,10 +9,10 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 
 ## 🚀 Live Preview
 
-(Add your deployed website link here)
+
 
 Example:
-https://your-portfolio-link.netlify.app
+file:///C:/Users/Chaitanya/OneDrive/Desktop/1st%20intership%20growfinx/index.html
 
 ---
 
