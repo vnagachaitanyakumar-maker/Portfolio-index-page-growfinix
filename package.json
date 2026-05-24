@@ -1,0 +1,16 @@
+{
+  "name": "feedback-form",
+  "version": "1.0.0",
+  "description": "Feedback form with Express backend",
+  "main": "feedback-server.js",
+  "scripts": {
+    "start": "node feedback-server.js"
+  },
+  "keywords": ["express", "feedback", "form"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
